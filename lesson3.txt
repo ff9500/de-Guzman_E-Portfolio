@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> PRICE ELASTICITY </title>
+<style>
+body {font-family:Californian FB; background-color:olive; outline:3px solid orange; border-color:white; padding:0px; color:#73250e;}
+div.one {background-color:white;}
+img.one {float:right; width:500px; height:400px; margin:50px; padding:10px;}
+</style>
+</head>
+
+<body>
+<img class="one" src="ELASTIC.png" title="Halimbawa ng Inelasticity of Demand">
+<img class="one" src="INELASTIC.png" title="Halimbawa ng Elasticity of Demand">
+<div class="one">
+<h1>Elastisidad</h1>
+<p> - Paraan para masukat ang pagtugon ng mga mamimili at nagtitinda sa pagbabago sa presyo. </p>
+
+<h1>Mga Uri ng Elastisidad</h1>
+<h2>1. Elastik</h2>
+<p>
+- Mas malaki ang pagbabago sa quantity kaysa sa presyo.<br>
+- Coefficient: /E/ &gt; 1<br>
+- Halimbawa: Produktong maraming kapalit o kahalili 'gaya ng softdrinks.<br>
+- %ΔQ > %ΔP
+</p>
+
+<h2>2. Di-Elastik</h2>
+<p>
+- Mas malaki ang pagbabago ng presyo kaysa sa quantity.<br>
+- Coefficient: /E/ &lt; 1<br>
+- Halimbawa: Produktong walang kapalit 'gaya ng medicine.<br>
+- %ΔQ < %ΔP
+</p>
+
+<h2>3. Unitary</h2>
+<p>
+- Parehas ang pagbabago sa presyo at quantity.<br>
+- Coefficient /E/ = 1<br>
+- %ΔQ = %ΔP
+</p>
+
+<h2>4. Ganap na Elastik/Perfectly Elastic</h2>
+<p>
+- Anumang pagbabago sa presyo ay nagdudulot ng infinite na pagbabago sa quantity.<br>
+- Coefficient /E/ = ∞
+</p>
+
+<h2>5. Ganap na Di-Elastik/Perfectly Inelastic</h2>
+<p>
+- Hindi nagbabago ang dami ng demand o supply kahit magbago ang presyo.<br>
+- Coefficient /E/ = 0
+</p>
+
+<div>
+<h1>Formula:</h1>
+Ep = &percnt;&Delta;Q / &percnt;&Delta;P<br>
+&percnt;&Delta;Q = (Q2 - Q1) / ((Q1 + Q2) / 2)<br>
+&percnt;&Delta;P = (P2 - P1) / ((P1 + P2) / 2)
+</div>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html> 
+<html>
+
+<head>
+<title> DEMAND </title>
+<style>
+body {font-family:Californian FB; background-color:olive; outline:3px solid orange; border-color:white; padding:0px; color:#73250e;}
+div.one {background-color:white;}
+</style>
+</head>
+
+<body>
+<div class="one">
+<img class="one" src="PRICE2.jpg" title="Price Ceiling">
+<img class="one" src="PRICE.jpg" title="Floor Price">
+<h1>Price Control</h1>
+<p>
+Ang price control o pagkontrol sa presyo ay isang patakarang pang-ekonomiya na isinasagawa ng pamahalaan upang itakda ang pinakamataas at/o pinakamababang presyo ng mga produkto at serbisyo sa pamilihan. Layunin nitong mapanatili ang patas na kalakalan sa pagitan ng mga konsyumer at prodyuser, at maiwasan ang labis na pagtaas o pagbagsak ng presyo na maaaring makasira sa ekonomiya.
+</p>
+
+<h1>Layunin ng Price Control</h1>
+<p>
+- Proteksyunan ang mga konsyumer mula sa mataas na presyo ng mga bilihin.<br>
+- Tiyakin na hindi malulugi ang mga prodyuser.<br>
+- Panatilihin ang kaayusan ng ekonomiya.
+</p>
+
+<h1>National Price Coordination Council (NPCC)</h1>
+<p>Ang NPCC ay ang pangunahing ahensya ng pamahalaan na nagbabantay sa paggalaw ng presyo ng mga produkto at serbisyo. Binubuo ito ng mga kinatawan mula sa iba't ibang kagawaran tulad ng Department of Trade and Industry (DTI), Department of Agriculture (DA), at iba pang ahensya na may kinalaman sa presyo at suplay ng mga produkto.<br>
+Tungkulin ng NPCC:<br>
+Magtakda ng mga panuntunan sa price control.<br>
+Magbigay ng rekomendasyon sa Pangulo ukol sa price ceiling at price floor.<br>
+Magsagawa ng price monitoring upang makita ang mga pagbabago sa merkado.<br>
+Magpatupad ng mga parusa sa mga negosyanteng lalabag sa itinakdang presyo.
+</p>
+
+<h1>Price Ceiling</h1>
+<p>
+Ang price ceiling ay ang pinakamataas na presyo na maaaring ipataw sa isang produkto o serbisyo. Itinakda ito ng pamahalaan upang maprotektahan ang mga mamimili laban sa mga negosyanteng maaaring samantalahin ang sitwasyon upang magtaas ng presyo nang labis.
+</p>
+
+<h1>Price Freeze</h1>
+<p> Ang price freeze ay tumutukoy sa pansamantalang hindi paggalaw o pagbabago ng presyo ng mga produkto at serbisyo sa isang takdang panahon. Ang layunin nito ay panatilihing matatag ang presyo at proteksyunan ang mamimili sa panahon ng krisis. Layunin nito panatilihing matatag ang presyo at proteksyunan ang mamimili sa panahon ng krisis.<br>
+Kailan Ipinatutupad:<br>
+- State of Calamity - Kapag may kalamidad tulad ng bagyo, lindol, o pandemya upang maiwasan ang pananamantala sa mga mamimili.<br>
+- Mabilis na Pagtaas ng Inflation - Kapag biglaang tumataas ang presyo ng mga pangunahing bilihin, ginagamit ito upang makontrol ang galaw ng presyo habang inaayos ng pamahalaan ang supply.
+</p>
+
+<h1>Mabuting Epekto ng Price Control</h1>
+<p>
+- Abot-kayang presyo<br>
+- Napoproteksyunan ang karapatan ng mga mahihirap.<br>
+- Napapanatili ang katatagan ng pamilihan.
+</p>
+
+<h1>Hindi Mabuting Epekto ng Price Control</h1>
+<p>
+- Nagkukulang ang supply ng produkto kapag bumababa ang presyo.<br>
+- Nawawalan ng gana ang mga prodyuser.<br>
+- Mataas ang tiyansa na magkaroon ng black market.
+</p>
+
+<h1>Price Support</h1>
+<p>
+Ang price support ay isang patakarang ipinatutupad upang proteksyunan ang mga prodyuser laban sa labis na pagbaba ng presyo ng kanilang produkto. Sa ganitong paraan, natitiyak na hindi sila malulugi at patuloy silang makapagtatanim, makagagawa, o makapaglilingkod sa merkado.
+</p>
+
+<h1>Floor Price</h1>
+<p>
+Ang floor price ay ang pinakamababang presyo na itinakda ng pamahalaan para sa mga produkto at serbisyo. Kilala rin ito bilang price support o minimum price policy. Layunin nito ay bigyan ng proteksyon ang mga prodyuser, lalo na sa sektor ng agrikultura, at panatilihin ang produksiyon sa isang antas na sapat upang tugunan ang pangangailangan ng bansa.<br>
+Katangian:<br>
+Mas mataas ito kaysa sa equilibrium price upang matiyak na may sapat na kita ang mga prodyuser.<br>
+Kapag masyadong mataas ang floor price, maaaring magkaroon ng surplus o sobrang supply dahil hindi lahat ng konsyumer ay kayang bumili.
+</p>
+</div>
+
+</body>
+</html>

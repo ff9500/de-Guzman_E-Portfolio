@@ -1,0 +1,207 @@
+<!DOCTYPE html> 
+<html>
+
+<head>
+<title> TLE-ICT </title>
+<style>
+html {scroll-behavior:smooth;}
+h1.header {font-family:Pristina; text-align:center; background-color:#d5a871; color:#f3e197; font-size:75px; margin:0px; padding:0px;}
+h1.lessons {font-family:Pristina; text-align:center; color:#d5a871; font-size:35px;}
+.button {text-align:center; background-color:#d5a871; color:#f3e197; font-family:Californian FB; font-size: 16px; cursor: pointer; padding: 5px 7px;}
+@keyframes slideIn {0% {opacity: 0; transform: translateX(-50%);}100% {opacity:1; transform:translateX(0);}}
+.page-content {animation: slideIn 1.5s ease-in-out forwards;}
+body.one {margin:0px; font-family:Californian FB; font-size:20px;}
+.column {float:left; padding: 9px;}
+.row::after {content:""; clear:both; display:table;}
+img.one {text-align:center; width:175px; height:175px;}
+p {color:#5a80a6;}
+div.scroll {background-color: #5a80a6; overflow: auto; white-space: nowrap; padding: 10px;}
+div.scroll img {padding: 10px; height:450px; width:600px;}
+div.scroll1 {background-color: #f3e197; overflow: auto; white-space: nowrap; padding: 10px;}
+div.scroll1 img {padding: 10px; height:300px; width:250px;}
+</style>
+</head>
+
+<body class="page-content one">
+<h1 class="header"> TLE-ICT</h1>
+<img src="DIVIDER.jpg" width="100%" height="150px" margin="0px">
+
+<h1 class="lessons" align="center"> 2<sup>nd</sup> QUARTER LESSONS </h1>
+
+<div class="row">
+
+<div class="column">
+<a href="#one">
+<img class="one" src="ONE.jpg">
+</a>
+</div>
+
+<div class="column">
+<a href="#two">
+<img class="one" src="TWO.jpg">
+</a>
+</div>
+
+<div class="column">
+<a href="#three">
+<img class="one" src="THREE.jpg">
+</a>
+</div>
+
+<div class="column">
+<a href="#four">
+<img class="one" src="FOUR.jpg">
+</a>
+</div>
+
+<div class="column">
+<a href="#five">
+<img class="one" src="FIVE.jpg">
+</a>
+</div>
+
+<div class="column">
+<a href="#six">
+<img class="one" src="SIX.jpg">
+</a>
+</div>
+
+<div class="column">
+<a href="#seven">
+<img class="one" src="SEVEN.jpg" >
+</a>
+</div>
+
+</div>
+
+<br><br>
+<hr color="#d5a871" size="7" noshade>
+<br><br>
+
+<h1 id="one" style="color:#d5a871;">LESSON 1</h1>
+<p>In the first lesson, we learned about CSS: its definition, benefits in using, and the three layers, including CSS, that make up a webpage. CSS helps style our webpages in ways that HTML and JavaScript aren't able to. With it, we can express our ideas and designs and do it in a way that is efficient and pleasing.</p>
+
+<div class="scroll1">
+<img src="L1.jfif">
+<img src="L1-2.jfif">
+<img src="L1-2.jfif">
+<img src="L1-3.jfif">
+</div>
+
+<h1 id="two" style="color:#d5a871;">LESSON 2</h1>
+<p>In this lesson, we learned about the structure of CSS that holds up the document and makes it unique, and the kinds of CSS style sheets: Inline, External, and Internal. Each of them have their own advantages and disadvantages, leaving multiple options for all kinds of coding situations. We also learned how the structures of these style sheets and their difference with each other.</p>
+
+<div class="scroll1">
+<img src="L2.png" style="padding:10px; height:300px; width:400px;">
+<img src="L2-1.png" style="padding:10px; height:300px; width:400px;">
+<img src="L2-2.png" style="padding:10px; height:300px; width:400px;">
+</div>
+
+<h1 id="three" style="color:#d5a871;">LESSON 3</h1>
+<p>The third lesson is all about block and inline-level elements, including the &lt;div&gt; and &lt;span&gt; tags. These act as the structure and style of the webpage, with block level elements stacking up on each other and taking the space, and inline-level styles the text in these sections.</p>
+
+<div class="scroll1">
+<img src="L3.png" style="padding:10px; height:300px; width:400px;">
+<img src="L3-1.png" style="padding:10px; height:300px; width:400px;">
+</div>
+
+<h1 id="four" style="color:#d5a871;">LESSON 4</h1>
+<p>Lesson 4 is all about class and selectors, which play a huge role when you're coding in an external or internal style sheets. They ensure efficiency and consistency when styling an HTML document as you can apply it to any element that you want, and you can also apply multiple styles to one element.</p>
+
+<div class="scroll1">
+<img src="L4.png" style="padding:10px; height:300px; width:400px;">
+<img src="L4-1.png" style="padding:10px; height:300px; width:400px;">
+</div>
+
+<h1 id="five" style="color:#d5a871;">LESSON 5</h1>
+<p>The fifth lesson is about the different types of selectors, being class, ID, element/tag, universal, group, and attribute. These make targeted styling even more specific, cleaning the overall look of the code and giving greater flexibility and control.</p>
+
+<div class="scroll1">
+<img src="L5.png" style="padding:10px; height:300px; width:400px;">
+<img src="L5-1.png" style="padding:10px; height:300px; width:400px;">
+</div>
+
+<h1 id="six" style="color:#d5a871;">LESSON 6</h1>
+<p>This lesson is about controlling the dimensions and visibility of HTML elements using CSS, and also how to apply pseudo-classes to links. Properties like width, height, max-width, and visibility help manage appearance of the elements on a webpage. There are four pseudo-classes for links: &quot;&colon;link, &colon;visited, &colon;hover, and :active&quot;, which have an important order (LVHA).</p>
+
+<div class="scroll1">
+<img src="L6.png" style="padding:10px; height:300px; width:400px;">
+<img src="L6-1.png" style="padding:10px; height:300px; width:400px;">
+</div>
+
+<h1 id="seven" style="color:#d5a871;">LESSON 7</h1>
+<p> Lesson not available as for this moment! </p>
+
+<br><br>
+<hr color="#d5a871" size="2" style="border:dotted 4px White;" noshade>
+
+<h1 class="lessons" align="center"> 2<sup>nd</sup> QUARTER SCHOOL ACTIVITES </h1>
+
+<h1 class="lessons">Buwan ng Wika</h1>
+<p>The most important thing I learned in this event was to cherish and love my country and its culture, including our language. I can apply these lessons in real-life by speaking Tagalog and respecting its history and the traditions that come with it. I participated in the event through the declamation activity for the grade 9 level, and also wore a Filipiniana outfit for every Monday in August. If I would teach this topic to a classmate of mine, I would first explain that this month is a way to express our identity and connect with our homeland through a shared language. It is important to hold these events to honor our ancestors and everyone that worked to liberate the Philippines from foreigners, and celebrate a culture that is uniquely ours.</p>
+
+<div class="scroll">
+<img src="FILI.jpg">
+<img src="FILI1.jpg">
+<video controls align="center" height="500px" width="600px">
+<source src="FILI.mp4" type="video/mp4">
+</video>
+<p style="color:White;"> <small>CREDITS: Ang Paham (Shayne Marie Oray, Zoe Faustine Arde, Joana Rain Carag)</small> </p>
+</div>
+
+<h1 class="lessons">Intrams</h1>
+<p>The most important thing I learned from this event was the power of sportsmanship and teamwork in playing sports. I can apply what I learned by listening to other's opinions and feelings, and accepting the outcomes, whether I win or lose. During intramurals, I participated by cheering for my team, the Yellow Padolinas, and also parading and chanting around the oval with fellow teammates. If I were to explain this to a classmate, I would say that Intrams aren't only for winning trophies, but for forming friendships that would've never been thought of before, and for promoting body conditioning and a healthy lifestyle. This event is important because not only does our health improve but we make important connections and memories too.</p>
+
+<div class="scroll">
+<img src="INTRAMS.jpg">
+<img src="INTRAMS1.jpg">
+<video controls align="center" height="500px" width="600px">
+<source src="INTRAMS.mp4" type="video/mp4">
+</video>
+<p style="color:White;"> <small>CREDITS: LPSci Standard Press (Sophia Nicole Reyes)</small></p>
+</div>
+
+<h1 class="lessons">Science Month</h1>
+<p>From this event, I learned that there is science and innovation in our everyday lives and when we put in effort to see it and use it, we can bring change to the world, no matter how big or small. I can apply this by being curious and asking questions about what I don't know. I actively participated in many activities during this month, including the elimination for the quiz bee, the poster making contest, and helping keep our classroom clean for the Cleanest Classroom contest. If I were to explain this event to a classmate, I would say that Science Month encourages us to explore, discover and apply scientific concepts that we usually wouldn't have. Having this event is important because it inspires students to pursue knowledge, think critically, and value the role of science in society.</p>
+
+<div class="scroll">
+<img src="SCIENCE.jpg">
+<img src="SCIENCE1.jpg">
+<video controls align="center" height="500px" width="600px">
+<source src="FILI.mp4" type="video/mp4">
+</video>
+<p style="color:White;"> <small>CREDITS: LPSci Standard Press (Gb Alleq Balasbas)</small></p>
+</div>
+
+<h1 class="lessons">AP Month</h1>
+<p>The most important lesson I got from this month was to open my eyes to our country’s conditions and problems, as well as understand the importance of our history in shaping our identity and culture. I can apply what I learned by educating myself on the political, economical, and social state of the Philippines, while respecting other countries at the same time. I participated in this month’s events through attending a symposium about the West Philippine Sea, making an editorial cartoon about the SDGs and showing off our section’s cultural costumes and flags representing Australia and Oceania countries. If I were to explain this to a classmate, I would say that AP Month deepens our knowledge of the Philippines and the world, helping us appreciate our role in building our nation. Events like this are crucial because they promote critical thinking and forming our own opinions on important issues.</p>
+
+<div class="scroll">
+<img src="AP.jpg">
+<img src="AP1.jpg">
+<video controls align="center" height="500px" width="600px">
+<source src="FILI.mp4" type="video/mp4">
+</video>
+<p style="color:White;"> <small>CREDITS: LPSci AP Club</small></p>
+</div>
+
+<h1 class="lessons">Teacher's Day</h1>
+<p>From this day, I learned that while we students struggle at times, we should also acknowledge the exhaustion that our teachers go through to give these lessons and activities to us. I can apply this lesson by always showing respect and cooperation with my teachers at school, and always keeping in mind that they are humans as well. I actively participated in the programs my class had for this day, also greeting and thanking the teachers I saw for their efforts. If I was explaining this day to a classmate, I would say that Teacher's Day is a way we can repay our educators for all the knowledge they've given to us. Overall, Teacher's Day is important because it is a way for teachers and students to connect outside of the classroom and make memories to remember.</p>
+
+<div class="scroll">
+<img src="TEACHERS.jpg">
+<img src="TEACHERS1.jpg">
+<video controls align="center" height="500px" width="600px">
+<source src="TEACHERS.mp4" type="video/mp4">
+</video>
+<p style="color:White;"> <small>CREDITS: LPSci Standard Press (Bwan Lila Aguhar), Riley Dablo</small></p>
+</div>
+
+<img src="DIVIDER1.jpg" width="100%" height="150px" margin="0px" padding="0px">
+<h1 class="header">
+<input type="button" class="button" value="Home / My Personal Space" onclick="location.href='RLVDG.html';">
+<input type="button" class="button" value="ARALING PANLIPUNAN" onclick="location.href='aralingpanlipunan.html';">
+</h1>
+
+</body>
+</html>

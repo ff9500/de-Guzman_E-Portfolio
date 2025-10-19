@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> SUPPLY </title>
+<style>
+body {font-family:Californian FB; background-color:olive; outline:3px solid orange; border-color:white; padding:0px; color:#73250e;}
+div.one {background-color:white;}
+img.one {float:right; width:300px; height:200px;}
+
+</style>
+</head>
+
+<body>
+<div class="one">
+<h1>Supply</h1>
+<p>
+- tumutukoy sa dami ng produkto at serbisyo na handa at nais ipagbili ng mga prodyuser sa iba’t ibang lebel ng presyo sa loob ng isang takdang panahon. <br>
+- ang mga prodyuser o supplier ang pangunahing gumagalaw sa bahaging ito ng ekonomiya. Ang kanilang pagnanais at kakayahan ang batayan ng pagtatakda ng supply sa pamilihan—kapag kapwa umiiral ang dalawang katangiang ito, masasabi nating may aktuwal na supply. (Pagnanais + Kakayahan=Supply)<br>
+- naaapektuhan din ng presyo. Gayunman, sa supply, direkta ang relasyon ng presyo at dami ng handang ipagbili: kapag tumataas ang presyo, mas nagiging handa ang prodyuser na magdagdag ng supply, at kapag bumababa naman ang presyo, nababawasan ang dami ng produktong handa nilang ipagbili. </p>
+
+<h1>3 Elemento sa Suplay</h1>
+<ul>
+<li>1. Paninda</li>
+<li>2. Pabrika</li>
+- Gumagawa ng mga produkto para mabenta sa paninda.<br>
+- Ang mga negosyante ay ang namamahala at nangangasiwa.
+<li>3. Negosyante</li>
+</ul>
+
+<h1>Supply Function</h1>
+<p>isang mathematical equation na may dalawang variable: P = presyo (independent variable), at Qs = quantity supplied (dependent variable)
+formula: Qd = a + bP kung saan Qd ay ang quantity demanded, a ang quantity demanded kapag ang produkto ay libre (P=0), b ang slope, at P ang presyo.<br>
+Ipinapakita nito na habang tumataas ang presyo, tumataas din ang Qs, kaya malinaw ang tuwirang relasyon ng presyo at supply.</p>
+
+<h1>Supply Schedule</h1>
+<p>Ang supply schedule ay isang talahanayan na nagpapakita ng dami ng produkto na handa at kayang ipagbili ng prodyuser sa iba’t ibang presyo. Nakabatay ito sa supply function at ginagamit upang makita ang pagbabago ng Qs sa bawat presyong itinakda.<br>
+Makikita sa talaan na habang tumataas ang presyo, dumarami ang handang ipagbili ng mga prodyuser.</p>
+
+<h1>Supply Curve</h1>
+<p>Ang supply curve ay isang grapikong representasyon ng supply schedule.<br>
+Ang presyo (P) ay nakalagay sa vertical axis (Y-axis), at ang Qs ay nakalagay sa horizontal axis (X-axis).<br>
+Ang supply curve ay upward sloping: habang tumataas ang presyo, tumataas din ang quantity supplied.<br>
+Ipinapakita nito na mas malaki ang insentibo ng mga prodyuser na magbenta kapag mataas ang presyo, kaya tumataas din ang dami ng produkto sa pamilihan.</p>
+
+<h1>Market Supply</h1>
+<p>Kapag pinagsama-sama ang supply ng lahat ng prodyuser sa pamilihan, makukuha ang market supply. Kahit magkakaiba ang indibidwal na supply, makikita pa rin ang tuwirang relasyon ng presyo at kabuuang supply.</p>
+
+<h1>Batas ng Supply</h1>
+<p>Ang Batas ng Supply ay nagsasaad na:<br>
+“Habang tumataas ang presyo ng isang produkto, dumarami ang dami ng produkto na handang ipagbili ng mga prodyuser. Kapag bumababa ang presyo, nababawasan din ang handang ipagbili.”<br>
+Ang batas na ito ay umiiral sa kondisyon na ang presyo lamang ang nagbabago at ang ibang salik ay hindi nag-iiba (ceteris paribus). Ipinapakita nito ang direktang relasyon ng presyo at supply.</p>
+
+<h1>Mga Salik na Nakaaapekto sa Supply</h1>
+<ul>
+<li>Teknolohiya</li>
+- Ang makabagong kaalaman at makinarya ay nagpapabilis ng produksyon.
+<li>Dami ng Nagtitinda</li>
+- Mas maraming nagtitinda = mas maraming supply.
+<li>Subsidy</li>
+- Tulong ng pamahalaan sa mga negosyante upang mapalago ang produksiyon.<br>
+-Nagagamit sa pagbili ng kagamitan at pagpapabuti ng negosyo.
+<li>Gastos sa Produksiyon</li>
+-Kasama dito ang buwis, sahod ng manggagawa, at presyo ng raw materials.<br>
+-Kapag tumaas ang gastos, bumababa ang supply; kapag bumaba ang gastos, tumataas ang supply.
+<li>Panahon/Klima</li>
+-Mahalaga lalo na sa agrikultura.<br>
+-Maayos na klima = masaganang ani = mas maraming supply.<br>
+El Niño o kalamidad = pagkasira ng pananim = pagbaba ng supply.
+<li>Presyo ng Ibang Produkto</li>
+-Kapag tumaas ang presyo ng isang produkto, mas pinipili ng prodyuser na magbenta nito, kaya nadaragdagan ang supply.<br>
+-May epekto rin ang presyo ng complementary products (magkaugnay na produkto).
+<li>Ekspektasyon</li>
+-Kapag inaasahan ang pagtaas ng presyo sa hinaharap, maaaring mag-hoard ang mga prodyuser ngayon upang maglabas ng mas malaking supply sa mas mataas na presyo.<br>
+-Kapag inaasahang bababa ang presyo, maaaring bawasan ang produksyon.
+</ul>
+
+<img class="one" src="SUPPLYCURVE3.png" title="Leftward Shift">
+<img class="one" src="SUPPLYCURVE2.png" title="Rightward Shift">
+<img class="one" src="SUPPLYCURVE.png" title="Movement Along the Curve">
+<h1>Pagbabago ng Supply Curve</h1>
+<h2>Paggalaw sa Iisang Kurba (Movement Along the Curve)</h2>
+<p>Kapag presyo lamang ang nagbago, ang supply ay gumagalaw sa parehong kurba.</p>
+<h2>Paglipat ng Kurba (Shift of the Curve)</h2>
+<p>Pakanan (Rightward Shift) = pagtaas ng supply<br>
+Pakaliwa (Leftward Shift) = pagbaba ng supply</p>
+
+<h1>Salik sa Pagbabago sa Halaga ng mga Salik ng Produksyon</h1>
+<ol>
+<li>Pagbabago sa bilang ng mga nagtitinda.</li>
+<li>Pagbabago sa presyo ng kaugnay na produkto.</li>
+<li>Ekspektasyon ng presyo.</li>
+<li>Okasyon/Tradisyon.</li>
+<li>Panahon/Klima.</li>
+<li>Kalamidad.</li>
+<li>Dali ng pagkasira o pagkabulok ng isang produkto.</li>
+<li>Subsidiya o tulong mula sa pamahalaan.</li>
+</ol>
+</div>
+
+</body>
+</html>

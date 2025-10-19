@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html> 
+
+<head>
+<title> DEMAND </title>
+<style>
+body {font-family:Californian FB; background-color:olive; outline:3px solid orange; border-color:white; padding:0px; color:#73250e;}
+div.one {background-color:white;}
+img.one {float:right; width:300px; height:200px;}
+</style>
+</head>
+
+<body>
+<div class="one">
+<h1>Pagsusuri ng Ekonomiya</h1>
+<p>
+Ang pagsusuri ng ekonomiya ay mahalaga sapagkat dito natutukoy ang antas ng kaunlaran ng isang bansa.
+</p>
+
+<h1>Microeconomics</h1>
+<p>
+- nakatuon sa pag-aaral ng maliliit na yunit ng ekonomiya tulad ng mga mamimili, prodyuser, at pamilihan. <br>
+- sinusuri nito ang mga kilos, gawi, at ugnayan ng bawat aktor sa ekonomiya upang maunawaan kung paano nabubuo ang kabuuang galaw ng pamilihan. <br>
+- dito rin pinag-aaralan ang epekto ng presyo sa desisyon ng mga mamimili at prodyuser sa pagbili at pagbenta ng mga produkto at serbisyo.
+</p>
+
+<h1>Demand</h1>
+<p>
+- tumutukoy sa dami ng produkto o serbisyo na kaya at handang bilhin ng mga mamimili sa iba't ibang presyo sa loob ng isang takdang panahon. <br>
+- ang presyo ay ang pinakamahalagang nagtatakda (determinant) sa dami ng demand. Ang relasyon ng presyo at demand ay di-tuwiran: kapag tumaas ang presyo, bumababa ang demand; kapag bumaba ang presyo, tumataas ang demand. <br>
+- kapag ang mamimili ay may kakayahan (kita) at kagustuhan (panlasa) na bumili ng isang produkto, nagkakaroon ng aktwal na demand. Kapag alinman sa dalawa ay wala, hindi ito matatawag na tunay na demand. (Kagustuhan + Kakayahan = Demand)
+</p>
+
+<h1>Demand Function</h1>
+<p>
+- isang mathematical equation na nagpapakita ng ugnayan ng presyo (P) bilang independent variable at quantity demanded (Qd) bilang dependent variable.<br>
+- formula: Qd = a - bP kung saan Qd ay ang quantity demanded, a ang quantity demanded kapag ang produkto ay libre (P=0), b ang slope, at P ang presyo.
+</p>
+
+<div>
+Halimbawa:
+Qd=400−5P
+Kapag ang P = 80,
+Qd=400−5(80)
+=400−400
+=0
+Ibig sabihin, walang mamimiling bibili sa presyong ₱80.
+</div>
+
+<h1>Demand Schedule</h1>
+<p>
+- isang talahanayan na nagpapakita ng dami ng produktong kaya at handang bilhin ng mamimili sa bawat lebel ng presyo sa isang takdang panahon. Maaari itong buuin gamit ang demand function sa pamamagitan ng pagbabago ng halaga ng P o Qd.<br>
+- makikita sa demand schedule na habang tumataas ang presyo ng produkto, bumababa ang dami ng produktong binibili kung walang ibang salik na nagbabago (ceteris paribus)
+</p>
+
+<h1>Ceteris Paribus</h1>
+<p>
+- presyo lamang ang nakakaapekto na salik sa pagbabago ng quantity demanded, habang ang ibang salik ay hindi nagbabago o nakakaapekto rito.
+</p>
+
+<h1>Demand Curve</h1>
+<p>
+- isang grapikong representasyon ng relasyon ng presyo at quantity demanded. Ang presyo ay nakalagay sa Y-axis, at ang Qd ay nakalagay sa X-axis.<br>
+- ipinapakita ng demand curve na pababa ang hugis (downward sloping) — habang tumataas ang presyo, bumababa ang Qd, at habang bumababa ang presyo, tumataas ang Qd. Ang kurbang ito ay iginuguhit batay sa mga puntos mula sa demand schedule. 
+</p>
+
+<h1>Market Demand</h1>
+<p>
+- ang kabuuang demand ng lahat ng mamimili sa pamilihan. <br>
+- kapag pinagsama-sama ang indibidwal na demand ng mga mamimili, makakabuo ng market demand schedule at market demand curve. <br>
+- kahit may mamimili na hindi bumibili sa mataas na presyo, may ilan pa ring bumibili, kaya hindi nawawala ang ugnayan ng presyo at demand. Tulad ng indibidwal na demand curve, downward sloping din ang market demand curve.
+</p>
+
+<h1>Batas ng Demand</h1>
+<p>
+- nagsasaad na habang tumataas ang presyo ng isang produkto, kumokonti ang bibilhing produkto ng mamimili; habang bumababa ang presyo, dumarami ang bibilhing produkto — ceteris paribus.”<br>
+Presyo lamang ang pangunahing salik na isinasaalang-alang sa batas na ito.
+</p>
+
+<h1>Mga Salik na Nakaaapekto sa Demand</h1>
+<ul>
+<li>Panlasa / Kagustuhan</li>
+- Nagbabago ang demand batay sa uso, kultura, at personal na preference.<br>
+- Diminishing Utility - nagpapakita na habang paulit-ulit na kinokonsumo ang isang produkto, bumababa ang karagdagang kasiyahan, kaya bumababa rin ang demand.
+<li>Kita</li>
+- Kapag tumataas ang kita, tumataas ang demand sa normal goods tulad ng appliances at pagkain. Kapag bumababa ang kita, bumababa ang demand.<br>
+- Inferior goods tulad ng tsinelas o dried fish ay hindi tumataas ang demand kahit tumaas ang kita.
+<li>Populasyon o Dami ng Mamimili</li>
+- Mas maraming tao = mas maraming mamimili = mas mataas na demand sa iba’t ibang produkto.
+<li>Presyo ng Magkaugnay na Produkto sa Pagkonsumo (Complementary at Substitute Products)</li>
+- Substitute goods: Kapag tumaas ang presyo ng isang produkto, tataas ang demand ng kapalit nito.<br>
+- Complementary goods: Kapag tumaas ang presyo ng isang produkto, bababa ang demand ng parehong produkto.
+<li>Okasyon</li>
+- Mga espesyal na araw tulad ng Pasko, Araw ng mga Puso, pista, at Undas ay nagdudulot ng pansamantalang pagtaas ng demand sa mga partikular na produkto tulad ng bulaklak, kandila, pagkain, at regalo.
+<li>Ekspektasyon</li>
+- Kapag inaasahan ng mamimili ang pagtaas ng presyo (hal. panahon ng krisis o kalamidad), nagkakaroon ng panic buying, kaya tumataas ang demand kahit walang pagbabago sa presyo sa kasalukuyan.
+<li>Panahon o Klima</li>
+Depende sa pangangailangan sa partikular na panahon, maaaring tumaas o bumaba ang demand sa ilang produkto.
+</ul>
+
+<img class="one" src="DEMANDCURVE2.png" title="Shift of the Curve">
+<img class="one" src="DEMANDCURVE.png" title="Movement Along the Curve">
+<h1>Paggalaw ng Kurba ng Demand</h1>
+<h2>Paggalaw sa Kurba (Movement Along the Curve)</h2>
+<p>Kapag ang presyo lamang ang nagbago, makikita ang pagbabago ng Qd sa pamamagitan ng pagtulay sa parehong kurba.</p>
+
+<h2>Paglipat ng Kurba (Shift of the Curve)</h2>
+<p>Pakanan (Rightward Shift): pagtaas ng demand kahit hindi nagbago ang presyo (hal. mas mataas na kita, mas malaking populasyon, okasyon, panic buying).
+Pakaliwa (Leftward Shift): pagbaba ng demand kahit hindi nagbago ang presyo (hal. pagbaba ng kita, pagkasawa, kawalan ng okasyon, pagbaba ng presyo ng substitute goods).</p>
+</div>
+
+</body>
+</html>

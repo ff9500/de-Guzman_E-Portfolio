@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> ROMINA LAURIZ V. DE GUZMAN </title>
+
+<style>
+h1.header {font-family:Pristina; text-align:center; background-color:#edd9ce; color:#73250e; font-size:50px; margin:0%; padding:0%; border-radius:5px;}
+h1.personal {font-family:Pristina; color:#2d3604;}
+h1.space {font-family:Pristina; color:#2d3604; font-size:60px; text-align:center; text-shadow:-3px -3px 5px #edd9ce, 3px -3px 5px #edd9ce, -3px 3px 5px #edd9ce, 3px 3px 5px #edd9ce; margin:0%; padding:50px;}
+.button {text-align:center; background-color:#73250e; color:#edd9ce; font-family:Californian FB; font-size: 16px; cursor: pointer; padding: 5px 7px; border-radius:5px; border:outset; border-color:#73250e;}
+.paper {background-image:url(CORKBOARD.jpg); background-size:100% 100%; margin:0px;}
+p.one {color:#73250e; text-align:center; font-size:30px; margin:0px; padding:50px;}
+img.music {display:inline-flex; width: 30%; padding: 5px; width:400px; height:400px; text-align:middle;}
+p.two {color:#73250e; font-size:20px;}
+img.one {border: 5px solid #edd9ce; width:300px; height:200px;}
+div.background {background-color:rgba(237, 217, 206, 0.7);}
+.column {float: left; padding: 5px;}
+.row::after {content: ""; clear: both; display: table;}
+hr {border:dashed 5px #73250e;}
+</style>
+
+</head>
+
+<body style="background-image:url(CLOVERS.jpg); font-family:Californian FB;">
+
+<img src="FLOWERS.gif" width="200px" height="200px" align="left">
+<h1 class="header"><small>&#11213;Welcome to my &#11213;</small> <br> E-PORTFOLIO</h1>
+<img src="FLOWER.gif" width="200px" height="200px" align="right">
+<div class="button">
+<input type="button" class="button" value="Home / My Personal Space">
+<input type="button" class="button" value="TLE-ICT" onclick="location.href='tleict.html';">
+<input type="button" class="button" value="ARALING PANLIPUNAN" onclick="location.href='aralingpanlipunan.html';">
+</div>
+
+<div>
+<p class="one paper"> Hello there! <br>
+<small>Why don't you listen to some music while you scroll?</small> <br>
+<img class="music" src="vinyls.gif">
+<audio controls>
+<source src="HITOTOSE.mp3" type="audio/mp3">
+</audio>
+</p>
+</div>
+
+<br>
+<h1 class="space"> My Personal Space <br>
+<small> all about ROMINA</small> </h1>
+
+<div class="row">
+<div class="column">
+<img class="one" src="PERSONAL.jpg">
+</div>
+<div class="column">
+<img class="one" src="PERSONAL1.jpg">
+</div>
+<div class="column">
+<img class="one" src="PERSONAL2.jpg">
+</div>
+<div class="column">
+<img class="one" src="PERSONAL3.jpg">
+</div>
+</div>
+
+<div class="background">
+<h1 class="personal"> a. Personal details: </h1>
+<p class="two"> Name: Romina Lauriz V. de Guzman <br>
+Age: 14 years old <br>
+Birthday: February 14, 2011 <br>
+Favorites <br>
+Food: Pesto pasta <br>
+Color: Orange <br>
+Animal: Cats <br>
+Season: Winter <br>
+Subject: English, Science <br>
+Flower: Lilies, sunflowers <br>
+</p>
+</div>
+
+<div class="background" style="text-align:center; color:#73250e; font-size:20px;">
+<p> I adore musical theatre and stageplays, and love writing stories and drawing characters. I like to think I am a mix of an artsy and sciency type. Here is a video of me performing on stage! </p>
+
+<video controls width="400" height="400" align="center">
+<source src="PERSONAL4.mp4" type="video/mp4">
+</video>
+</div>
+
+<br><hr><br>
+<div class="row">
+<div class="column">
+<img class="one" src="FRIENDS.jpg">
+</div>
+<div class="column">
+<img class="one" src="FRIENDS1.jpg">
+</div>
+<div class="column">
+<img class="one" src="FRIENDs2.jpg">
+</div>
+<div class="column">
+<img class="one" src="FRIENDS3.jpg">
+</div>
+</div>
+
+<div class="background">
+<h1 class="personal"> b. Circle of Friends </h1>
+<p class="two">
+I have a small circle of friends, and even though I would like to have more, I feel content and close with the friends I have now. I know that I can trust them and they can trust me. <br><br>
+
+I met all of my friends last year in grade 8. It was a transitional period from the section and people we knew in our first year in LPSci, and so it was easier to bond because we were all in the same situation. Lastly, I think that our advisor, always kind and making school life interesting, was one of the big reasons our section was very tight-knit. <br><br>
+
+Lorraine, Chiara, Zoe, and Benj have been part of my circle for a year now. They're all friendly and share the same humor, and moreover inspire me to do my best in life. I love singing musical theatre songs with Lorraine and Chiara, and ranting about random things with Zoe and Benj. I also love spending time just chatting with Bianca. She's an extremely kindhearted person who I think radiates love wherever she goes, and I would love to be closer to her.<br><br>
+
+Through my love for theatre, I also made friends through a musical workshop. As we share the same interests, we immediately started talking. I admire all of them because they are so talented: whether that is through singing, dancing, acting, drawing, whatever—they all make me proud to stand beside them on stage. I hope that even though we can't see eachother much lately, we can still sing and laugh together like no time has passed.
+</p>
+</div>
+
+<div class="background" style="text-align:center; color:#73250e; font-size:20px;">
+<p> When I'm around my friends, I feel like I can be as embarassing and "cringy" as I want to be. I know that they won't judge me or think of me less, and I do the same for them. </p>
+
+<video controls width="400" height="400" align="center">
+<source src="FRIENDS4.mp4" type="video/mp4">
+</video>
+</div>
+
+<br><hr><br>
+<div class="row">
+<div class="column">
+<img class="one" src="FAMILY.jpg">
+</div>
+<div class="column">
+<img class="one" src="FAMILY1.jpg">
+</div>
+<div class="column">
+<img class="one" src="FAMILY2.jpg">
+</div>
+<div class="column">
+<img class="one" src="FAMILY3.jpg">
+</div>
+</div>
+
+<div class="background">
+<h1 class="personal"> c. My Family </h1>
+<p class="two">
+My family consists of me, my brother, my parents, and two dogs. We've lived in three different houses in my life, though I can't remember much about the first. We also live with my ate, who works for my mom in her business. <br><br>
+
+My parents are hardworking, yet they always stop to help if I'm feeling bad or need to get something for school. They just want me to do my best at life, so I want to show them that their efforts will not be put to waste. My brother is two years older than me and I consider one of my best friends. Back when we were young, we didn't get along. However, the distance closed as time went on. He's always considerate and willing to put others before himself. <br><br>
+
+My dogs are 3 and 4 years old, and they are very makulit and like playing with each other. My ate, on the other hand, is very talented and I love listening to her stories about her life back in her home province, Bicol.<br><br>
+
+My family on my mom's side is also really close to my heart. We've always been close to them, celebrating important occasions and going to events together. I feel more happy with them than anyone. Even though there are some times where we don't see eye to eye, I will never stop appreciating them.
+</p>
+</div>
+
+<div class="background" style="text-align:center; color:#73250e; font-size:20px;">
+<p> Some of the best memories in my life was having parties at my Papa's house, or going on vacations with my cousins. I love them all very much and I want to make so many more memories in the future. </p>
+
+<video controls align="center">
+<source src="FAMILY4.mp4" type="video/mp4">
+</video>
+</div>
+
+</body>
+</html>
