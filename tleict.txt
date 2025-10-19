@@ -199,9 +199,10 @@ div.scroll1 img {padding: 10px; height:300px; width:250px;}
 
 <img src="DIVIDER1.jpg" width="100%" height="150px" margin="0px" padding="0px">
 <h1 class="header">
-<input type="button" class="button" value="Home / My Personal Space" onclick="location.href='RLVDG.html';">
+<input type="button" class="button" value="Home / My Personal Space" onclick="location.href='index.html';">
 <input type="button" class="button" value="ARALING PANLIPUNAN" onclick="location.href='aralingpanlipunan.html';">
 </h1>
 
 </body>
+
 </html>
